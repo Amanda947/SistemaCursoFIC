@@ -1,0 +1,5 @@
+com\amanda\testes\sistemaFIC\SistemaFICApplicationTests.class
+com\amanda\testes\sistemaFIC\service\EstudanteServiceTest.class
+com\amanda\testes\sistemaFIC\service\EstudantesMatriculadosServiceTest.class
+com\amanda\testes\sistemaFIC\service\TurmaCursoServiceTest.class
+com\amanda\testes\sistemaFIC\service\CursoServiceTest.class
